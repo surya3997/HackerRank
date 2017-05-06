@@ -37,7 +37,8 @@ Print the largest (maximum) hourglass sum found in .
 0 0 2 4 4 0
 0 0 0 2 0 0
 0 0 1 2 4 0
-Sample Output
+
+# Sample Output
 
 19
 
